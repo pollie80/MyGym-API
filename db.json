@@ -1,0 +1,136 @@
+{
+    "days":[
+        {
+          "id": 0,
+          "day": "Monday",
+          "body category": "biceps & shoulders",
+          "exercises": [
+            "bicep curls against wall",
+            "bicep curls with bar",
+            "bicep curls laying on angled bench",
+            "Barbell Overhead Shoulder Press",
+            "Bent-Over Dumbbell Lateral Raise",
+            "Dumbbell Lateral Raise",
+            "Standing Barbell Shrugs"
+          ],
+          "addresses": [
+            {
+              "addressId": 0,
+              "number": "75",
+              "line1": "Venn Street",
+              "line2": "Clapham",
+              "postcode": "SW4 0BD",
+              "country": "United Kingdom"
+            }
+          ]
+        },
+        {
+            "id": 0,
+            "day": "Tuesday",
+            "body category": "rest",
+            "exercises": [
+              ""
+            ],
+            "addresses": [
+              {
+                "addressId": 0,
+                "number": "75",
+                "line1": "Venn Street",
+                "line2": "Clapham",
+                "postcode": "SW4 0BD",
+                "country": "United Kingdom"
+              }
+            ]
+        },
+        {
+        "id": 0,
+        "day": "Wednesday",
+        "body category": "rest",
+        "exercises": [
+            ""
+        ],
+        "addresses": [
+            {
+            "addressId": 0,
+            "number": "75",
+            "line1": "Venn Street",
+            "line2": "Clapham",
+            "postcode": "SW4 0BD",
+            "country": "United Kingdom"
+            }
+        ]
+        },
+        {
+        "id": 0,
+        "day": "Thursday",
+        "body category": "rest",
+        "exercises": [
+            ""
+        ],
+        "addresses": [
+            {
+            "addressId": 0,
+            "number": "75",
+            "line1": "Venn Street",
+            "line2": "Clapham",
+            "postcode": "SW4 0BD",
+            "country": "United Kingdom"
+            }
+        ]
+        },
+        {
+        "id": 0,
+        "day": "Friday",
+        "body category": "rest",
+        "exercises": [
+            ""
+        ],
+        "addresses": [
+            {
+            "addressId": 0,
+            "number": "75",
+            "line1": "Venn Street",
+            "line2": "Clapham",
+            "postcode": "SW4 0BD",
+            "country": "United Kingdom"
+            }
+        ]
+        },
+        {
+        "id": 0,
+        "day": "Saturday",
+        "body category": "rest",
+        "exercises": [
+            ""
+        ],
+        "addresses": [
+            {
+            "addressId": 0,
+            "number": "75",
+            "line1": "Venn Street",
+            "line2": "Clapham",
+            "postcode": "SW4 0BD",
+            "country": "United Kingdom"
+            }
+        ]
+        },
+        {
+        "id": 0,
+        "day": "Sunday",
+        "body category": "rest",
+        "exercises": [
+            ""
+        ],
+        "addresses": [
+                {
+                "addressId": 0,
+                "number": "75",
+                "line1": "Venn Street",
+                "line2": "Clapham",
+                "postcode": "SW4 0BD",
+                "country": "United Kingdom"
+                }
+            ]
+        }
+    ]
+}
