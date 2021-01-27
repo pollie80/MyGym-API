@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "json-server": "^0.16.3"
-  }
+  },
+  "name": "mygym-api",
+  "description": "MyGym-API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pollie80/MyGym-API.git"
+  },
+  "author": "Tian Welgemoed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pollie80/MyGym-API/issues"
+  },
+  "homepage": "https://github.com/pollie80/MyGym-API#readme"
 }
